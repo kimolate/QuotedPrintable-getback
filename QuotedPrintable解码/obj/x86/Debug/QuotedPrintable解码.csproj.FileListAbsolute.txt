@@ -1,0 +1,7 @@
+D:\Documents\GitHub\QuotedPrintable解码\QuotedPrintable解码\bin\Debug\QuotedPrintable解码.exe
+D:\Documents\GitHub\QuotedPrintable解码\QuotedPrintable解码\bin\Debug\QuotedPrintable解码.pdb
+D:\Documents\GitHub\QuotedPrintable解码\QuotedPrintable解码\obj\x86\Debug\QuotedPrintable解码.Form1.resources
+D:\Documents\GitHub\QuotedPrintable解码\QuotedPrintable解码\obj\x86\Debug\QuotedPrintable解码.Properties.Resources.resources
+D:\Documents\GitHub\QuotedPrintable解码\QuotedPrintable解码\obj\x86\Debug\QuotedPrintable解码.csproj.GenerateResource.Cache
+D:\Documents\GitHub\QuotedPrintable解码\QuotedPrintable解码\obj\x86\Debug\QuotedPrintable解码.exe
+D:\Documents\GitHub\QuotedPrintable解码\QuotedPrintable解码\obj\x86\Debug\QuotedPrintable解码.pdb
